@@ -1,6 +1,6 @@
 name: secure-cloud-storage-bucket
 display_name: Secure Cloud Storage Bucket
-version: 1.0.0
+version: 1.0.1
 description: An enterprise-grade, secure Google Cloud Storage bucket with uniform access, encryption, and lifecycle management.
 category: Storage
 icon: storage
